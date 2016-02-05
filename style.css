@@ -1,0 +1,21 @@
+.container{background-color:green;}
+  
+  #myCarousel, 
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img{
+         height:345px;
+		 width:100%;
+		 align: center;
+  }
+  
+  .col-md-8{border:2px solid black;
+			height: 300px;
+			overflow:scroll;
+  }
+  
+  .col-md-12{border:1px solid black;
+				height:100px;
+				overflow:scroll;
+   }
+
+   .col-md-4{position:;}
